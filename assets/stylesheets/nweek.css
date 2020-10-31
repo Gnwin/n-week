@@ -27,12 +27,7 @@
 }
 
 .content {
-	position: relative;
-	background-color: white;
-	margin: 0 auto;
 	max-width: 1310px;
-	width: 100%;
-	height: 100%;
 }
 
 .offscreen {
@@ -48,19 +43,13 @@
 
 /* Mobile View */
 
-.header .container-fluid {
-	margin: 0;
-	padding: 0;
-}
-
 .header1 {
 	background-color: #f72210;
-	color: white;
 	padding: 0.8rem;
 }
 
 .forecast {
-	display: none;
+	/* display: none; */
 }
 
 .nlogo {
