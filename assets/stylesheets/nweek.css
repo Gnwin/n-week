@@ -48,22 +48,12 @@
 	padding: 0.8rem;
 }
 
-.forecast {
-	/* display: none; */
-}
-
 .nlogo {
 	width: 131.87px;
 }
 
 .location {
 	font-size: 0.8571rem;
-	font-weight: bold;
-}
-
-.date {
-	/* display: block; */
-	color: white;
 }
 
 .weather-icon {
@@ -83,14 +73,11 @@
 }
 
 .btn-warning {
-	text-transform: uppercase;
 	padding: 0.2rem 0.4rem;
-	font-weight: bold;
 	font-size: 0.8571rem;
-	font-family: "roboto condensed" "sans-serif";
+	/* font-family: "roboto condensed" "sans-serif"; */
 }
 
 .main {
-	/* padding: 1.4286rem 2.1429rem 2.1429rem 0; */
 	padding: 1.4286rem 1.0714rem 0 1.0714rem;
 }
